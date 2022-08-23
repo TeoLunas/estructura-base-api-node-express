@@ -40,6 +40,13 @@ Instalacion de Passport para autenticacion
 npm i passport passport-local passport-jwt
 ```
 
+## To deploy this project run
+
+En modo desarrollo
+```bash
+  npm run dev
+```
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
